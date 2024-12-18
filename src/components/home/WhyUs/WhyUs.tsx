@@ -16,7 +16,7 @@ const WhyUs = () => {
 
         <div className="mt-12 text-center">
           <p className="text-xl text-gray-300 mb-8">
-            We bring proven, cost-effective AI solutions that deliver real value and ROI.
+            We bring proven, cost-effective AI solutions that deliver real value.
           </p>
           <button className="inline-flex items-center bg-blue-500 text-white px-8 py-4 rounded-full font-medium hover:bg-blue-600 transition-colors">
             Book Free Consultation

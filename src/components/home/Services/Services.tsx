@@ -8,7 +8,7 @@ const Services = () => {
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">Our Services</h2>
-          <p className="text-xl text-gray-400">Transforming businesses with AI automation</p>
+          <p className="text-xl text-gray-400">Increase daily productivity and minimize human errors with AI-powered systems designed to scale your business operations. </p>
           <div className="w-24 h-1 bg-blue-500 mx-auto mt-8"></div>
         </div>
 

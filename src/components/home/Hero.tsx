@@ -38,8 +38,7 @@ const Hero = () => {
             We Build Custom AI Systems for SMEs
           </h1>
           <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-            Automate key business processes, reduce costs, save hours, and
-            supercharge productivity.
+            Automate your key business processes in days, reduce costs by 40%, and save hundres of hours annually with AI.
           </p>
 
           <div className="space-y-6 flex flex-col items-center">
